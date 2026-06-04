@@ -87,21 +87,6 @@ The dataset was collected through interviews and operational observations from a
 * Lead times
 * Inventory policy parameters
 
-### Example SKUs
-
-* Potato
-* Onion
-* Tomato
-* Pumpkin
-* Beetroot
-* Bitter Gourd
-* Brinjal
-* Beans
-* Cabbage
-* Pudina
-* Plantain
-* Ivy Gourd
-
 ---
 
 ## Demand Modelling
