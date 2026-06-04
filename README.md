@@ -6,7 +6,7 @@ Perishable inventory systems face a critical trade-off between maintaining produ
 
 This project develops a **Discrete Event Simulation (DES) framework** for optimizing inventory policies in perishable vegetable retail systems operating under stochastic demand conditions. Using real-world retailer data, the framework models inventory movement, product expiry, lost sales, replenishment decisions, and customer purchasing behavior to identify inventory policies that maximize profitability while reducing waste.
 
-The work was conducted as part of an internship research project and later presented at a conference hosted by Mahindra University.
+The work was conducted as part of an internship research project and later will be presented at a conference hosted by Mahindra University.
 
 ---
 
