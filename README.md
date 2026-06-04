@@ -253,33 +253,21 @@ simulation-based-perishable-inventory-optimization/
 
 ├── README.md
 │
-├── data/
-│   └── vegetable_inventory_data.xlsx
+├── vegetable_inventory_data.xlsx
 │
-├── notebooks/
-│   └── IITKGP_Internship_Project.ipynb
-│
-├── src/
-│   ├── data_preprocessing.py
-│   ├── distribution_fitting.py
-│   ├── inventory_simulation.py
-│   ├── validation.py
-│   ├── policy_optimization.py
-│   └── visualization.py
-│
+├── IITKGP_Internship_Project.ipynb
+│   
 ├── results/
 │   ├── distribution_fits.csv
 │   ├── validation_results.csv
 │   ├── optimal_policies.csv
-│   └── figures/
+│   └── optimization.csv
 │
 ├── paper/
-│   ├── Abstract_Pramaan.pdf
-│   └── Research_Paper_Draft.pdf
+│   └── Abstract_Pramaan.pdf
 │
 ├── requirements.txt
-├── LICENSE
-└── .gitignore
+└── LICENSE
 ```
 
 ---
