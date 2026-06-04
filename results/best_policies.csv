@@ -1,0 +1,22 @@
+Vegetable,Policy_Type,Candidate,Order_Quantity,CI_Matches
+Potato,FIXED,Mean,43,2
+Ivy_gourd,FIXED,0.90 Mean,8,2
+Cucumber,TARGET,1.25 Mean,18,2
+Pumpkin,FIXED,Mean,45,3
+Bitter_gourd,FIXED,Mean,56,3
+Brinjal,FIXED,P60,39,3
+Beans,TARGET,P85,57,3
+Capsicum,TARGET,1.25 Mean,15,2
+Madras_Cucumber,FIXED,Mean,43,3
+Carrot,TARGET,1.5 Mean,13,2
+Sweet_Potato,TARGET,1.25 Mean,58,2
+Ridge_gourd,FIXED,0.90 Mean,14,2
+Plantain,TARGET,1.25 Mean,35,2
+Beetroot,TARGET,P85,37,3
+Cabbage,FIXED,Mean,46,3
+Curry_leaves,TARGET,P75,41,1
+Coriander,TARGET,1.25 Mean,37,2
+Pudina,FIXED,1.10 Mean,12,3
+Tomato,FIXED,P90,35,2
+Green_Chillies,TARGET,1.25 Mean,11,2
+Onion,FIXED,P85,52,3

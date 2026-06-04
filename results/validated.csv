@@ -1,0 +1,22 @@
+Vegetable,Validation_Status,CI_Matches
+Potato,Partially Validated,2
+Ivy_gourd,Partially Validated,2
+Cucumber,Partially Validated,2
+Pumpkin,Fully Validated,3
+Bitter_gourd,Fully Validated,3
+Brinjal,Fully Validated,3
+Beans,Fully Validated,3
+Capsicum,Partially Validated,2
+Madras_Cucumber,Fully Validated,3
+Carrot,Partially Validated,2
+Sweet_Potato,Partially Validated,2
+Ridge_gourd,Partially Validated,2
+Plantain,Partially Validated,2
+Beetroot,Fully Validated,3
+Cabbage,Fully Validated,3
+Curry_leaves,Weakly Validated,1
+Coriander,Partially Validated,2
+Pudina,Fully Validated,3
+Tomato,Partially Validated,2
+Green_Chillies,Partially Validated,2
+Onion,Fully Validated,3

@@ -1,0 +1,10 @@
+Vegetable,Profit_Change_Percent,Current_Lost_Sales,Best_Lost_Sales,Lost_Sales_Change_Percent,Current_Expiry,Best_Expiry,Expiry_Change_Percent
+Pumpkin,1.71,0.62,0.18,-70.65,0.20,0.07,-63.37
+Bitter_gourd,3.41,0.75,0.81,7.48,0.58,0.08,-86.06
+Brinjal,8.85,0.43,0.87,104.65,0.55,0.05,-90.91
+Beans,1.43,0.61,1.57,158.07,0.32,0.04,-86.34
+Madras_Cucumber,4.74,0.72,0.56,-21.45,0.62,0.12,-81.16
+Beetroot,0.00,0.25,0.25,0.00,0.13,0.13,0.00
+Cabbage,2.18,0.57,0.32,-43.45,0.58,0.15,-74.29
+Pudina,93.55,0.01,0.15,1100.00,0.57,0.01,-97.52
+Onion,8.72,0.00,0.24,NA,2.82,0.00,-100.00
